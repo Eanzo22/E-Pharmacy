@@ -1,5 +1,5 @@
 ُ@extends('admin.layouts.master')
-@section('craete_users')
+@section('craete_drugs')
 <div class="card">
                                     <div class="card-header">
                                         <strong>new drug</strong>
